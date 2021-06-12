@@ -4,3 +4,8 @@ namespace hello
 {
   void sayHello();
 }
+
+namespace hi
+{
+  void sayHello();
+}

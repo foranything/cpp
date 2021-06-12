@@ -10,3 +10,11 @@ namespace hello
     cout << "Hello" << endl;
   }
 }
+
+namespace hi
+{
+  void sayHello()
+  {
+    cout << "hi" << endl;
+  }
+}

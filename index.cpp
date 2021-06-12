@@ -6,5 +6,6 @@ using namespace std;
 int main()
 {
   hello::sayHello();
+  hi::sayHello();
   return 0;
 }
