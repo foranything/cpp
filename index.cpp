@@ -1,8 +1,10 @@
 #include <iostream>
+#include "namespace.h"
+
 using namespace std;
 
 int main()
 {
-  cout << "Hello World!";
+  hello::sayHello();
   return 0;
 }

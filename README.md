@@ -3,5 +3,5 @@
 빌드
 
 ```sh
-$ clang++ -g index.cpp -o a.out
+$ clang++ -g index.cpp namespace.cpp -o a.out
 ```
